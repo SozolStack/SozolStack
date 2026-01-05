@@ -1,5 +1,5 @@
 <!-- Banner (Optional GIF) -->
-<img src="https://raw.githubusercontent.com/SozolStack/ScrapeDo/main/assets/github-bg.jpg" alt="Sozol Ahamed Banner" width="100%" style="display: block; border-radius: 10px;">
+<img src="https://github.com/SozolStack/ScrapeDo/blob/main/assets/github-banner-image.png" alt="Sozol Ahamed Banner" width="100%" style="display: block; border-radius: 10px;">
 
 
 <div style="display: flex; align-items: center; gap: 10px;">

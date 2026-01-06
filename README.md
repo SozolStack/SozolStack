@@ -65,10 +65,10 @@
 
 ## 🔹 My Projects & Ventures
 
-| Project | Description | Users / Stats |
-|---------|-------------|---------------|
-| [Tenderbase](https://tenderbase.co.uk/) | Real-world frontend & backend web platform | Active & growing |
-| Company Portfolio Project | Portfolio website developed while working with a company | Live production project |
+| Project | Description | Region / Impact |
+|---------|-------------|-----------------|
+| [Tenderbase](https://tenderbase.co.uk/) | Public sector tender search & management platform built with modern web technologies | UK & Ireland |
+| Company Website Project | Web project built while working with a company | Live production project |
 | Open Source Contributions | Repositories on GitHub | Public contributions & collaborations |
 | Figma to Code Conversions | Pixel-perfect Figma to responsive HTML/CSS | Multiple professional projects |
 

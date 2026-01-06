@@ -22,7 +22,7 @@
 
 | Info | Details |
 |------|---------|
-| 🌍 Location | Bheramara, Kushtia, Bangladesh |
+| 🌍 Location | United Kingdom (UK) |
 | 💼 Current Work | [Tenderbase](https://tenderbase.co.uk/) |
 | 🌱 Currently Learning | Advanced JavaScript, React, Modern Frontend Frameworks |
 | 👯 Looking to Collaborate | Frontend & Full-Stack Web Development Projects |
